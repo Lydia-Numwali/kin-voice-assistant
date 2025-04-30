@@ -48,9 +48,10 @@ kinyarwanda-voice-assistant/
 
 ## Sample Q&A Dictionary (NLP Matching)
 python
-qa = {
-    "U Rwanda rufite intara zingahe?": "Rufite intara eshanu.",
-    "Indirimbo y’igihugu y’u Rwanda ni iyihe?": "Ni Rwanda Nziza."
+{   "muraho": "Muraho neza!",
+    "urakora iki?":"Ndi umukozi wa mudasobwa.",
+    "Intara zo mu Rwanda ni zingahe?":"Intara 4: Intara y'Amajyaruguru, Intara y'Amajyepfo, Intara  y'Iburengerazuba, Intara y'Iburasirazuba.",
+    "Ukunda u Rwanda?":"Yego, ndakunda u Rwanda cyane."
 }
 ## How to Run the Project
 1. Clone the Repository
