@@ -38,15 +38,13 @@ graphql
 
 
 kinyarwanda-voice-assistant/
-│
-├── audio/                   # Raw Kinyarwanda speech recordings
-├── transcriptions/          # Text outputs from ASR
-├── outputs/                 # TTS-generated spoken answers
-├── app.py                   # Main script to run the app
-├── qa_data.py               # Dictionary with Kinyarwanda Q&A pairs
-├── requirements.txt         # List of dependencies
-├── interface.py             # Gradio/Streamlit interface
-└── README.md                # Project documentation
+
+* `audio/`                   
+* `transcribe/`         
+* `outputs/`                 
+* `src/`            
+* `requirements.txt/`        
+* `README.md/`           
 
 ## Sample Q&A Dictionary (NLP Matching)
 python
