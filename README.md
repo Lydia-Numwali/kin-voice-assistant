@@ -56,8 +56,8 @@ python
 ## How to Run the Project
 1. Clone the Repository
 
-git clone https://github.com/your-username/kinyarwanda-voice-assistant.git
-cd kinyarwanda-voice-assistant
+* `git clone https://github.com/Lydia-Numwali/kin-voice-assistant.git`
+* `cd kin-voice-assistant`
 2. Install Dependencies
 pip install -r requirements.txt
 3. Run the App
